@@ -6,10 +6,7 @@ Welcome to the Tic-Tac-Toe game! This is a simple implementation of the classic 
 - [Description](#description)
 - [How to Play](#how-to-play)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
